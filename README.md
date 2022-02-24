@@ -31,7 +31,9 @@ const SebastianGamez = {
 
 ### Here you can see my last projects:
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianGamez&repo=weather--app)](https://github.com/SebastianGamez/weather--app)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianGamez&repo=information--app)](https://github.com/SebastianGamez/information--app)
 
 
 ## Contact Me
