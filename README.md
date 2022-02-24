@@ -15,7 +15,7 @@ const SebastianGamez = {
     
     frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
     backend: ['NodeJS', 'Express' ,'NextJS', 'Python'],
-    database: ['PostgreSQL', 'Mongo DB'],
+    database: ['PostgreSQL', 'MongoDB'],
     devops: ['Docker', 'MongoDB Atlas', 'Heroku'],
     tools: ['GIT', 'GitHub'],
     misc: ['Firebase', 'BEM', 'SCRUM', 'GNU/Linux']
