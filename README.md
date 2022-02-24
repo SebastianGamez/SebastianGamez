@@ -8,7 +8,7 @@ const SebastianGamez = {
   nickname: 'Sebas' || 'Juanse' || 'Gámez',
   college: 'Universidad Nacional' || 'UNAL' || 'Nacho',
   freeTime: ['Literature', 'Basketball', 'Films', 'Guitar', 'Pets'],
-  professionalInterests: ['IA', 'Cibersecurity', 'Django', 'Flask', 'GO'],
+  professionalInterests: ['IA', 'Cibersecurity', 'Robotics','Django', 'Flask', 'GO'],
   knoledge: {
     
     frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
