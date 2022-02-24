@@ -1,7 +1,7 @@
 ## What's up?, I'm Sebastián Gámez
 ![](https://github.com/SebastianGamez/SebastianGamez/blob/main/sebastian-gamez_banner.png)
 
-### Computational and systems enginnering student with two years experience at software development, specialist at create websites with API RESTful calls. Autodidact adaptable to diferents technologies and work enviroments. 🚀
+### Computational and systems enginnering student with two years of experience at software development, specialist at create websites with API RESTful calls. Autodidact adaptable to diferents technologies and work enviroments. 🚀
 
 ```javascript
 
