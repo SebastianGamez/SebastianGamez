@@ -1,4 +1,4 @@
-## What's up?, I'm Sebastián Gámez
+## What's up?, I'm Sebastián Gámez ⚡️
 ![](https://github.com/SebastianGamez/SebastianGamez/blob/main/sebastian-gamez_banner.png)
 
 
