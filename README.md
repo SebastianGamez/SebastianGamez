@@ -10,7 +10,7 @@
 const SebastianGamez = {
   
   nickname: 'Sebas' || 'Juanse' || 'Gámez',
-  college: 'Universidad Nacional' || 'UNAL' || 'Nacho',
+  college: 'Universidad Nacional de Colombia' || 'UNAL' || 'Nacho',
   freeTime: ['Literature', 'Basketball', 'Films', 'Guitar', 'Pets'],
   professionalInterests: ['IA', 'Cibersecurity', 'Robotics','Django', 'Flask', 'GO'],
   knoledge: {
