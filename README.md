@@ -12,11 +12,11 @@ const SebastianGamez = {
   nickname: 'Sebas' || 'Juanse' || 'Gámez',
   college: 'Universidad Nacional de Colombia' || 'UNAL' || 'Nacho',
   freeTime: ['Literature', 'Basketball', 'Films', 'Guitar', 'Pets'],
-  professionalInterests: ['IA', 'Cibersecurity', 'Robotics','Django', 'Flask', 'GO'],
+  professionalInterests: ['IA', 'Cibersecurity', 'Robotics', 'Flask', 'GO'],
   knoledge: {
     
     frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
-    backend: ['NodeJS', 'Express' ,'NextJS', 'Python'],
+    backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI'],
     database: ['PostgreSQL', 'MongoDB'],
     devops: ['Docker', 'MongoDB Atlas', 'Heroku'],
     tools: ['GIT', 'GitHub'],
@@ -29,11 +29,11 @@ const SebastianGamez = {
 ```
 
 
-### Here you can see my last projects:
+### Here you can see some projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianGamez&repo=suggest-me--app)](https://github.com/SebastianGamez/suggest-me--app)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianGamez&repo=weather--app)](https://github.com/SebastianGamez/weather--app)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianGamez&repo=information--app)](https://github.com/SebastianGamez/suggest-me--app)
 
 
 ## Contact Me
