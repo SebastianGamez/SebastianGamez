@@ -16,7 +16,7 @@ const SebastianGamez = {
   knoledge: {
     
     frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
-    backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI'],
+    backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI', 'Java'],
     database: ['PostgreSQL', 'MongoDB'],
     devops: ['Docker', 'MongoDB Atlas', 'Heroku'],
     tools: ['GIT', 'GitHub'],
