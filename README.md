@@ -10,14 +10,18 @@
 const SebastianGamez = {
   
   nickname: 'Sebas' || 'Juanse' || 'Gámez',
+  
   college: 'Universidad Nacional de Colombia' || 'UNAL' || 'Nacho',
+  
   freeTime: ['Literature', 'Basketball', 'Films', 'Guitar', 'Pets'],
+  
   professionalInterests: ['IA', 'Cibersecurity', 'Robotics', 'Flask', 'GO'],
+  
   knoledge: {
     
     frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
-    backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI', 'Java'],
-    database: ['PostgreSQL', 'MongoDB'],
+    backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI', 'Java', 'springBoot'],
+    database: ['PostgreSQL', 'mySQL', 'MongoDB'],
     devops: ['Docker', 'MongoDB Atlas', 'Heroku'],
     tools: ['GIT', 'GitHub'],
     misc: ['Firebase', 'BEM', 'SCRUM', 'GNU/Linux']
