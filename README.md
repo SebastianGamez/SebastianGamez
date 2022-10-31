@@ -17,7 +17,7 @@ const SebastianGamez = {
   
   professionalInterests: ['IA', 'Cibersecurity', 'Robotics', 'Flask', 'GO'],
   
-  knoledge: {
+  knowledge: {
     
     frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
     backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI', 'Java', 'springBoot'],
