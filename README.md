@@ -2,7 +2,7 @@
 ![](https://github.com/SebastianGamez/SebastianGamez/blob/main/sebastian-gamez_banner.png)
 
 
-### Computational and systems enginnering student at Universidad Nacional de Colombia. Autodidact adaptable to diferents technologies and work enviroments. 🚀
+### Computation and systems enginnering student at Universidad Nacional de Colombia. Autodidact adaptable to diferents technologies and work enviroments. 🚀
 
 
 ```javascript
