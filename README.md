@@ -2,7 +2,8 @@
 ![](https://github.com/SebastianGamez/SebastianGamez/blob/main/sebastian-gamez_banner.png)
 
 
-### Computer and systems enginnering student at Universidad Nacional de Colombia. Autodidact adaptable to diferents technologies and work enviroments. 🚀
+### Systems and computer engineering student from Colombia National University with experience in software development, autodidact specialized in the server side with Node, Java and Python. In charge to implement software architectures, design patterns and connections to databases, through the creation of REST or SOAP type services, use of agile methodologies (SCRUM) and different technologies (unit testing, version control and cloud services) at the work environment.Systems and computer engineering student from Colombia National University with experience in software development, autodidact specialized in the server side with Node, Java and Python. In charge to implement software architectures, design patterns and connections to databases, through the creation of REST or SOAP type services, use of agile methodologies (SCRUM) and different technologies (unit testing, version control and cloud services) at the work environment.
+ 🚀
 
 
 ```javascript
