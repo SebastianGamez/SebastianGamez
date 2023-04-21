@@ -18,8 +18,8 @@ const SebastianGamez = {
   professionalInterests: ['IA', 'Cibersecurity', 'Robotics', 'Flask', 'GO'],
   
   knowledge: {
-    backend: ['NodeJS', 'Express' ,'NextJS', 'Python', 'Django', 'FastAPI', 'Java', 'springBoot'],
-    frontend: ['ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
+    backend: ['NodeJS', 'Express', 'Python', 'Django', 'FastAPI', 'Java', 'springBoot'],
+    frontend: ['NextJS', 'ReactJS', 'JavaScript', 'SCSS', 'Boostrap', 'CSS', 'HTML5'],
     database: ['PostgreSQL', 'mySQL', 'MongoDB'],
     devops: ['Docker', 'MongoDB Atlas', 'Heroku'],
     tools: ['GIT', 'GitHub'],
