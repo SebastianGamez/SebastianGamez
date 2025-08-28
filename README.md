@@ -1,4 +1,4 @@
-# Sebastian Gamez Ariza ✔️
+# Sebastian Gamez Ariza :)
 
 ## Software Developer | Deep Learning & Supervised Learning Enthusiast
 
