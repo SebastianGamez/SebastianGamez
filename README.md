@@ -1,6 +1,6 @@
 # Sebastian Gamez Ariza :)
 
-## Software Developer | Deep Learning & Supervised Learning Enthusiast
+## Software Developer | Deep Learning | Machine Learning | LLM Engineering
 
 ---
 
@@ -44,13 +44,6 @@ I am passionate about learning new technologies and solving complex problems, as
 
 ---
 
-### Contact
-
-[![Gmail Badge](https://img.shields.io/badge/-juan.gamez1001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.gamez1001@gmail.com)](mailto:juan.gamez1001@gmail.com)  
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)](https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)
-
----
-
 ### Interests
 
 - Software Engineering  
@@ -65,5 +58,10 @@ I am passionate about learning new technologies and solving complex problems, as
 Feel free to reach out if you want to collaborate or have any opportunities.
 
 ---
+
+### Contact
+
+[![Gmail Badge](https://img.shields.io/badge/-juan.gamez1001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.gamez1001@gmail.com)](mailto:juan.gamez1001@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)](https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)
 
 Thanks for visiting my profile! 🚀
