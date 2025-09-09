@@ -4,6 +4,34 @@
 
 ---
 
+```ts
+const SebastianGamez = {
+
+  nickname: ['Sebas', 'Juanse', 'Gámez'],
+
+  college: ['Universidad Nacional de Colombia', 'Universidad de los Andes', 'Universidad de Antiquia', 'Duke University'],
+
+  freeTime: ['Literature', 'Basketball', 'Films', 'Lenguages', 'Pets'],
+
+  hardSkilss: {
+
+    machineLearning: ['TensorFlow', 'scikit-learn', 'Keras', 'Ollama'],
+
+    devops: ['Docker', 'AWS', 'Azure', 'MongoDB Atlas'],
+
+    backend: ['Express', 'FastAPI', 'SpringBoot'],
+
+    database: ['PostgreSQL', 'MySQL', 'MongoDB', 'Firebase'],
+
+    tools: ['Docker', 'Git', 'Bitbucket', 'Linux']
+  },
+
+  languages: ['Español (Native)', 'English (B2)', 'Italian (B2)']
+
+}
+```
+---
+
 ### About Me
 
 I am a software developer experienced in implementing software architectures, design patterns, and database connections using REST and SOAP services, agile methodologies, and cloud platforms. I have contributed to impactful projects such as developing web applications for major e-commerce companies and enhancing the performance and security of financial platforms.
@@ -58,8 +86,7 @@ Feel free to reach out if you want to collaborate or have any opportunities.
 
 ### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-juan.gamez1001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.gamez1001@gmail.com)](mailto:juan.gamez1001@gmail.com)  
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)](https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)
+Sebastián Gámez Ariza [![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)
 
 ---
 
